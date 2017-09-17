@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XML>
+    <row>
+        <Name>krutika</Name>
+        <Age>26</Age>
+        <Sex>F</Sex>
+        <Phone/>
+    </row>
+    <row>
+        <Name>kinjal</Name>
+        <Age/>
+        <Sex>F</Sex>
+        <Phone>897645323</Phone>
+    </row>
+    <row>
+        <Name>deep</Name>
+        <Age>24</Age>
+        <Sex>M</Sex>
+        <Phone/>
+    </row>
+    <row>
+        <Name>ankur</Name>
+        <Age/>
+        <Sex>M</Sex>
+        <Phone>4667896437</Phone>
+    </row>
+</XML>
